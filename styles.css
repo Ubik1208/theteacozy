@@ -79,7 +79,7 @@ p{
 
 .mainbanner{
     padding-top: 69px;
-    background-image: url("file:///Users/lukaszlukasiewicz/Desktop/PEACE/PROJEKTY_CODEACADEMY/TeaCozy/Images/img-mission-background.jpeg");
+    background-image: url("img-mission-background.jpeg");
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -142,7 +142,7 @@ p{
 /*Locations */
 
 .locations{
-    background-image: url("file:///Users/lukaszlukasiewicz/Desktop/PEACE/PROJEKTY_CODEACADEMY/TeaCozy/Images/img-locations-background.jpeg");
+    background-image: url("img-locations-background.jpeg");
     background-position: center;
     display: flex;
     flex-direction: column;
