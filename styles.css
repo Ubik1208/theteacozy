@@ -84,7 +84,7 @@ p{
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     max-height: 700px;
     max-width: 1200px;
 }
